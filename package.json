@@ -1,6 +1,6 @@
 {
   "name": "zhangby-vue-icon",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Juuust Vue Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
   "files": [
